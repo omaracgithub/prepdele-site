@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://b1.prepdele.com/</loc>
+    <loc>https://prepdele.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://b1.prepdele.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://b1.prepdele.com/en/" />
   </url>
-  <url><loc>https://b1.prepdele.com/modelo-examen/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://b1.prepdele.com/support/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://b1.prepdele.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://b1.prepdele.com/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/que-es-dele-b1/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/dele-b1-vs-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/aprobar-dele-b1-en-2-meses/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/dele-b1-expresion-escrita/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/vocabulario-dele-b1/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b1.prepdele.com/blog/dele-b1-comprension-auditiva/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b1.prepdele.com/en/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
-  <url><loc>https://b1.prepdele.com/en/sample-exam/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://b1.prepdele.com/en/support/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://b1.prepdele.com/en/blog/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://b1.prepdele.com/en/blog/what-is-dele-b1/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://b1.prepdele.com/en/blog/dele-b1-vs-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://b1.prepdele.com/en/blog/pass-dele-b1-in-2-months/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://prepdele.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://prepdele.com/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://prepdele.com/support/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>
