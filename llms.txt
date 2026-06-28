@@ -1,0 +1,56 @@
+# DELE B1 Practice
+
+> iOS app for preparing the official DELE B1 Spanish exam from Instituto Cervantes.
+
+## About
+
+DELE B1 Practice is a mobile app that helps candidates prepare for the DELE B1 (Diploma de Español como Lengua Extranjera, level B1) exam. It provides 7 complete mock exams in the official Instituto Cervantes format with real audio, AI-powered writing correction, detailed explanations, and progress tracking.
+
+## Key Facts
+
+- Platform: iOS only (App Store)
+- Level: B1 (intermediate) per the Common European Framework of Reference (CEFR)
+- Content: 7 full mock exams covering reading, listening, writing, and speaking
+- Audio: Professional recordings with native speakers
+- Writing: Free-form text input with AI scoring and correction
+- Progress: Results tracking by section and task
+- Practice modes: Daily quick practice + section-specific practice
+- Interface languages: 12 (English, Spanish, French, German, Portuguese, Brazilian Portuguese, Italian, Chinese, Japanese, Korean, Arabic, Russian)
+- Pricing: First exam free, subscription for full access
+- Developer: Independent (not affiliated with Instituto Cervantes)
+- Contact: hello@prepdele.com
+- Website: https://b1.prepdele.com
+
+## DELE B1 Exam Structure
+
+- Test 1: Reading comprehension (70 min, 5 tasks, 30 items)
+- Test 2: Listening comprehension (40 min, 5 tasks, 30 items)
+- Test 3: Written expression and interaction (60 min, 2 tasks)
+- Test 4: Oral expression and interaction (15 min + 15 min preparation)
+- Scoring: Group 1 (reading + listening) and Group 2 (writing + speaking), 50 points each, minimum 30 per group to pass
+
+## Common Use Cases
+
+- Spanish citizenship by residence (language requirement)
+- University admission in Spanish-speaking countries
+- Professional certification of Spanish proficiency
+- Personal language learning goals
+
+## Pages
+
+- [Homepage (Spanish)](https://b1.prepdele.com/)
+- [Homepage (English)](https://b1.prepdele.com/en/)
+- [Free sample exam](https://b1.prepdele.com/modelo-examen/)
+- [Blog / Preparation guides](https://b1.prepdele.com/blog/)
+- [Support / FAQ](https://b1.prepdele.com/support/)
+- [Privacy policy](https://b1.prepdele.com/privacy/)
+- [Terms of use](https://b1.prepdele.com/terms/)
+
+## Blog Articles
+
+- [¿Qué es el DELE B1?](https://b1.prepdele.com/blog/que-es-dele-b1/)
+- [DELE B1 vs DELE A2](https://b1.prepdele.com/blog/dele-b1-vs-dele-a2/)
+- [Aprobar el DELE B1 en 2 meses](https://b1.prepdele.com/blog/aprobar-dele-b1-en-2-meses/)
+- [Expresión escrita: ejemplos](https://b1.prepdele.com/blog/dele-b1-expresion-escrita/)
+- [Vocabulario clave](https://b1.prepdele.com/blog/vocabulario-dele-b1/)
+- [Comprensión auditiva: consejos](https://b1.prepdele.com/blog/dele-b1-comprension-auditiva/)
