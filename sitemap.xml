@@ -1,11 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prepdele.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
   </url>
-  <url><loc>https://prepdele.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://prepdele.com/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://prepdele.com/support/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url>
+    <loc>https://prepdele.com/modelo-examen/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/aprobar-dele-b1-en-2-meses/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/aprobar-dele-b1-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/aprobar-dele-b1-en-2-meses/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/dele-b1-comprension-auditiva/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-comprension-auditiva/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/dele-b1-comprension-lectora/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-comprension-lectora/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/dele-b1-expresion-escrita/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-expresion-escrita/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/dele-b1-expresion-oral/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-expresion-oral/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/dele-b1-vs-dele-a2/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-vs-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/dele-b1-vs-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-vs-dele-a2/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/errores-comunes-dele-b1/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/errores-comunes-dele-b1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/errores-comunes-dele-b1/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/mejores-recursos-dele-b1/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/mejores-recursos-dele-b1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/mejores-recursos-dele-b1/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/que-es-dele-b1/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/que-es-dele-b1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/que-es-dele-b1/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/blog/vocabulario-dele-b1/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/vocabulario-dele-b1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/vocabulario-dele-b1/" />
+  </url>
 </urlset>
