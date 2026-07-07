@@ -423,3 +423,20 @@ article.post .cta-box a svg {
   fill: #1650A8;
   flex-shrink: 0;
 }
+
+
+/* Footer */
+footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  border-top: 1px solid var(--border);
+}
+.footer-content { margin: 0 auto; }
+.footer-links { margin-bottom: 1rem; }
+.footer-links a { margin: 0 0.75rem; color: var(--text-secondary); }
+.footer-links a:hover { color: var(--primary); }
+.footer-note { margin: 0.5rem 0 0; font-size: 0.85rem; }
