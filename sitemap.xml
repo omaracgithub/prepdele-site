@@ -3,6 +3,376 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prepdele.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/fr/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/de/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/it/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pt/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/nl/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ar/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ja/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ko/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/zh/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ru/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pl/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/tr/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/uk/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/id/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/vi/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/" />
@@ -24,64 +394,2036 @@
   </url>
   <url>
     <loc>https://prepdele.com/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/fr/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/de/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/it/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pt/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/nl/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ar/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ja/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ko/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/zh/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ru/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pl/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/tr/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/uk/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/id/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/vi/modelo-examen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/modelo-examen/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/modelo-examen/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/fr/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/de/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/it/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pt/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/nl/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ar/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ja/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ko/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/zh/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ru/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pl/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/tr/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/uk/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/id/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/vi/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/blog/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/blog/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/blog/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/blog/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/blog/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/blog/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/blog/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/blog/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/blog/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/blog/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/blog/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/blog/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/blog/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/aprobar-dele-b1-en-2-meses/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/aprobar-dele-b1-en-2-meses/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/aprobar-dele-b1-en-2-meses/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/dele-b1-comprension-auditiva/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-comprension-auditiva/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-comprension-auditiva/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/dele-b1-comprension-lectora/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-comprension-lectora/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-comprension-lectora/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/dele-b1-expresion-escrita/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-expresion-escrita/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-expresion-escrita/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/dele-b1-expresion-oral/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-expresion-oral/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-expresion-oral/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/dele-b1-vs-dele-a2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-vs-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/dele-b1-vs-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-vs-dele-a2/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/blog/dele-b1-vs-dele-a2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/dele-b1-vs-dele-a2/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/blog/dele-b1-vs-dele-a2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/dele-b1-vs-dele-a2/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/errores-comunes-dele-b1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/errores-comunes-dele-b1/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/errores-comunes-dele-b1/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/mejores-recursos-dele-b1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/mejores-recursos-dele-b1/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/mejores-recursos-dele-b1/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/que-es-dele-b1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/que-es-dele-b1/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/que-es-dele-b1/" />
   </url>
   <url>
     <loc>https://prepdele.com/blog/vocabulario-dele-b1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/blog/vocabulario-dele-b1/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/blog/vocabulario-dele-b1/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/fr/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/de/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/it/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pt/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/nl/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ar/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ja/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ko/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/zh/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ru/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pl/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/tr/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/uk/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/id/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/vi/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/support/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/support/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/support/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/support/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/support/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/support/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/support/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/support/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/support/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/support/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/support/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/support/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/support/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/fr/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/de/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/it/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pt/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/nl/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ar/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ja/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ko/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/zh/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ru/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pl/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/tr/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/uk/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/id/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/vi/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/privacy/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/privacy/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/en/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/fr/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/de/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/it/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pt/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/nl/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ar/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ja/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ko/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/zh/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/ru/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/pl/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/tr/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/uk/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/id/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
+  </url>
+  <url>
+    <loc>https://prepdele.com/vi/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prepdele.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://prepdele.com/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://prepdele.com/fr/terms/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://prepdele.com/de/terms/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://prepdele.com/it/terms/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://prepdele.com/pt/terms/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://prepdele.com/nl/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://prepdele.com/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://prepdele.com/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://prepdele.com/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://prepdele.com/zh/terms/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prepdele.com/ru/terms/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://prepdele.com/pl/terms/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://prepdele.com/tr/terms/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prepdele.com/uk/terms/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://prepdele.com/id/terms/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://prepdele.com/vi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://prepdele.com/terms/" />
   </url>
 </urlset>
